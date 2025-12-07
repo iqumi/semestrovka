@@ -18,5 +18,5 @@
 
 ## Авторы
 
-Шпагин Сергей
-Лякин Евгений
+- Шпагин Сергей — [@iqumi]([https://github.com/iqumi)
+- Лякин Евгений — [@suritana](https://github.com/suritana)
